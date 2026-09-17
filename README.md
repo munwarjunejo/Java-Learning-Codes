@@ -8,6 +8,7 @@ Beginner-friendly Java programs, starting from the basics.
 2. `Variables.java` — declare and display variables
 3. `UserInput.java` — read input with `Scanner`
 4. `EvenOdd.java` — check whether a number is even or odd
+5. `AgeCheckForVote.java` — check voting eligibility by age
 
 ## Run a Program
 
