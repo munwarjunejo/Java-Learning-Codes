@@ -9,6 +9,7 @@ Beginner-friendly Java programs, starting from the basics.
 3. `UserInput.java` — read input with `Scanner`
 4. `EvenOdd.java` — check whether a number is even or odd
 5. `AgeCheckForVote.java` — check voting eligibility by age
+6. `MultiplicationTable.java` — print a multiplication table using a method
 
 ## Run a Program
 
