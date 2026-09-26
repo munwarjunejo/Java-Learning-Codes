@@ -1,5 +1,3 @@
-package lab1;
-
 public class FahrenheitToCelsius {
     public static void main(String[] args) {
 

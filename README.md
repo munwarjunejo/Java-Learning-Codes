@@ -11,6 +11,9 @@ Beginner-friendly Java programs, starting from the basics.
 5. `AgeCheckForVote.java` — check voting eligibility by age
 6. `MultiplicationTable.java` — print a multiplication table using a method
 7. `PositiveNegativeZero.java` — classify a number using conditions
+8. `Calculator.java` — perform arithmetic on two user-entered numbers
+9. `FahrenheitToCelsius.java` — convert Fahrenheit to Celsius
+10. `StudentInfo.java` — display student information
 
 ## Run a Program
 
