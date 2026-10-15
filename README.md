@@ -14,12 +14,20 @@ Beginner-friendly Java programs, starting from the basics.
 8. `Calculator.java` — perform arithmetic on two user-entered numbers
 9. `FahrenheitToCelsius.java` — convert Fahrenheit to Celsius
 10. `StudentInfo.java` — display student information
+11. `StudentGradeCalculator.java` — calculate total, percentage, grade, and pass/fail result
 
 ## Run a Program
 
 ```bash
 javac basic/HelloWorld.java
 java -cp basic HelloWorld
+```
+
+To run the grade calculator:
+
+```bash
+javac basic/StudentGradeCalculator.java
+java -cp basic StudentGradeCalculator
 ```
 
 Each file contains one public class. The filename and class name must match.
