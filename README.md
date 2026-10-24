@@ -15,6 +15,7 @@ Beginner-friendly Java programs, starting from the basics.
 9. `FahrenheitToCelsius.java` — convert Fahrenheit to Celsius
 10. `StudentInfo.java` — display student information
 11. `StudentGradeCalculator.java` — calculate total, percentage, grade, and pass/fail result
+12. `ClassAndObjectDemo.java` — demonstrate a class and two objects
 
 ## Run a Program
 
