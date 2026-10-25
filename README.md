@@ -16,6 +16,7 @@ Beginner-friendly Java programs, starting from the basics.
 10. `StudentInfo.java` — display student information
 11. `StudentGradeCalculator.java` — calculate total, percentage, grade, and pass/fail result
 12. `ClassAndObjectDemo.java` — demonstrate a class and two objects
+13. `ArrayAverage.java` — calculate the average of numbers stored in an array
 
 ## Run a Program
 
